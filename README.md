@@ -134,12 +134,6 @@ Check out my other 100 Days of Code projects:
 - 🐍 [Day 1-5]: Python Fundamentals
 - 🎯 [Day 7+]: Advanced Python Challenges
 
-## 📸 Demo
-
-![Maze Solution Demo](https://via.placeholder.com/600x400/2E3440/81A1C1?text=Reeborg+Solving+Maze)
-
-*Reeborg successfully navigating through the maze using the right-hand rule*
-
 ## 🛠️ Installation & Setup
 
 ```bash
